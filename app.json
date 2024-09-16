@@ -16,12 +16,12 @@
      "OWNER_NAME": {
       "description": "Put the name of Bot Owner",
       "required": true,
-      "value": "GIFTED TECH"
+      "value": "AWAIS TECH"
     },
     "OWNER_NUMBER": {
       "description": "Put Bot Owner Numbers",
       "required": true,
-      "value": "254762016957"
+      "value": "923189492995"
     },
     "AUTO_STICKER": {
       "description": "Put true/false to enable auto conversion of videos and photos as stickers",
@@ -46,7 +46,7 @@
     "AUTO_READ_STATUS": {
       "description": "Put true if you want bot to view status",
       "required": true,
-      "value": "true"
+      "value": "false"
     },
     "AUTO_READ": {
       "description": "Put true if you want bot to read message",
