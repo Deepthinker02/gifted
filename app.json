@@ -45,7 +45,7 @@
     },
     "AUTO_READ_STATUS": {
       "description": "Put true if you want bot to view status",
-      "required": true,
+      "required": false,
       "value": "false"
     },
     "AUTO_READ": {
